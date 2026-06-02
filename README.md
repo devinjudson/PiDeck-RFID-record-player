@@ -18,6 +18,8 @@ The PiDeck uses RFID technology to detect a record when placed on the reader. Th
 
 ## 3D Design & Manufacturing
 
+<p align="center"><img src="PIDECK.png" width="800"></p>
+
 The PiDeck enclosure was designed from scratch in Fusion 360 and 3D printed.
 
 The design was carefully engineered to:
