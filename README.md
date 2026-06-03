@@ -54,7 +54,7 @@ Additional software features include:
 
 ## Hardware Overview
 
-<p align="center"><img src="" width="800"></p>
+<p align="center"><img src="PiDeck_electronics.jpg" width="800"></p>
 
 ### Components
 
