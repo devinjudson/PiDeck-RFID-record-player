@@ -36,7 +36,7 @@ The PiDeck software was written entirely in Python and runs on a Raspberry Pi 5.
 
 The system consists of two primary components:
 
-###RFID Record Writer
+### RFID Record Writer
 
 Associates Spotify albums, playlists, or songs with an RFID tag.
 
