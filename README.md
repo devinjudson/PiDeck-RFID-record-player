@@ -1,4 +1,4 @@
-<p align="center"><img src="" width="800"></p>
+<p align="center"><img src="PiDeck_demo.gif" width="800"></p>
 
 # PiDeck - RFID Record Player
 
